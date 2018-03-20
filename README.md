@@ -24,8 +24,9 @@ Snacks raise the mood:
 * every third snack raises it by 2
 * every fifth snack raises it by 4
 * every fifteenth snack raises it by 8
+* every other snack raises it by 1
 
-mood falls back to 0 when called to kindergarten
+mood falls back to 0 when state transitions to hiding
 
 ## Bonus 2
 Recursively consume the snacks.
