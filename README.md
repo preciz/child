@@ -9,7 +9,7 @@ The initial state is "playing".
 ## Constraints:
 * You cannot use any third party library.
 * Every transition should be printed on screen containing the "from" and "to" state in a readable sentence.
-* Impossible transitions should raise an exception.
+* Impossible transitions should not change state but print "Cannot transition from <current state> with <call>"
 
 ## Bonus
 Child has two new properties:
