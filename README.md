@@ -27,6 +27,3 @@ Snacks raise the mood:
 * every other snack raises it by 1
 
 mood falls back to 0 when state transitions to hiding
-
-## Bonus 2
-Recursively consume the snacks.
