@@ -1,5 +1,8 @@
 # Simplified state machine of a 4 years old child.
 
+_**Very Important:**_ _Please, do not fork this repository so we can avoid exposing the possible solutions on the web!_
+
+
 ## Goal:
 Build a state machine based on the diagram below in your favourite language.
 The initial state is playing.
