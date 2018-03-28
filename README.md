@@ -23,7 +23,7 @@ Snacks can be given to the child only when he is in the playing or eating state.
 
 Snacks are consumed before the child transitions from the eating state to the playing state.
 
-Snacks raise the mood:
+Snacks raise the mood when consumed:
 * every third snack raises it by 2
 * every fifth snack raises it by 4
 * every fifteenth snack raises it by 8
